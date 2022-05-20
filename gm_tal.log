@@ -1,0 +1,42 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading c:\users\kel\desktop\misc\hammer\projects\tal\gm_tal.vmf
+Patching WVT material: maps/gm_tal/blend/blend_dev_modulated_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10603.10 4864.00 65.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (149501 bytes)
+Error! To use model "models/props/de_nuke/car_nuke_animation.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/car_nuke_animation.mdl"!
+Static prop models/props/de_nuke/truck_nuke.mdl outside the map (-10603.10, 4864.00, 65.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3065 texinfos to 1456
+Reduced 27 texdatas to 25 (681 bytes to 613)
+Writing c:\users\kel\desktop\misc\hammer\projects\tal\gm_tal.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\kel\desktop\misc\hammer\projects\tal\gm_tal.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 213126, actual size 212242
+1 second elapsed
