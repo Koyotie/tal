@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$basetexture" 	"tal/traintrack01b"
+	"$bumpmap" 	"tal/traintrack01b_normal"
+	"$surfaceprop" 	"gravel"
+}
