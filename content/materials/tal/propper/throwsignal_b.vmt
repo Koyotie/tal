@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 	"tal/propper/throwsignal_b"
+	"$surfaceprop" 	"metalpannel"
+
+	$alphatest	1
+	$alphatestreference	.5
+	$allowalphatocoverage	1
+}
